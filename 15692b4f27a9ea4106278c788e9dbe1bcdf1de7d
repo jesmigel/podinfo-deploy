@@ -1,0 +1,1 @@
+{"jobID":"582b2ac1-e97f-539b-c414-df269d637fdd","spec":{"type":"policy","cause":{"Message":"","User":"Jesmigel Cantos \u003cjesmigel.developer@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
